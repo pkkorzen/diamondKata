@@ -14,3 +14,6 @@ For example: print-diamond ‘C’ prints
 C&nbsp;&nbsp;&nbsp;&nbsp;C\
 &nbsp;B&nbsp;&nbsp;B\
 &nbsp;&nbsp;&nbsp;A
+
+Source:\
+https://codingdojo.org/kata/Diamond/
